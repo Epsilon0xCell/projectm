@@ -1,6 +1,6 @@
 [preset00]
-per_frame_1000=// simple wave to build
-per_frame_1001=//
+per_frame_1000=// simple wave
+per_frame_1001=// MODE=0 Circle
 
 fDecay=0.980000
 nWaveMode=0
