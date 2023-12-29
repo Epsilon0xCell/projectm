@@ -10,8 +10,7 @@ class SpectrumLine : public LineBase
 {
 protected:
     auto IsSpectrumWave() -> bool override;
-    void ResizeVertexLists(const PresetState& presetState) override;
-    void CalculateVertexCoordinates() override;
+    void GenerateVertices(const PresetState& presetState, const PerFrameContext& presetPerFrameContext) override;
 };
 
 } // namespace Waveforms
