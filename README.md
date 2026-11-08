@@ -1,3 +1,7 @@
+![Banner: a dark hall where a liquid light projection floods the far wall in magenta, cyan, and amber rivers, the glowing oil plate silhouetted in the foreground and the audience in shadow along the bottom](banner.png)
+
+<p align="center"><img src="logo.png" alt="projectM logo: a round glass plate seen from above, magenta and cyan oils blooming together at its center on black" width="200"></p>
+
 [![Windows Build Status](https://github.com/projectM-visualizer/projectm/actions/workflows/build_windows.yml/badge.svg?branch=master)](https://github.com/projectM-visualizer/projectm/actions/workflows/build_windows.yml)
 [![Linux Build Status](https://github.com/projectM-visualizer/projectm/actions/workflows/build_linux.yml/badge.svg?branch=master)](https://github.com/projectM-visualizer/projectm/actions/workflows/build_linux.yml)
 [![macOS Build Status](https://github.com/projectM-visualizer/projectm/actions/workflows/build_osx.yml/badge.svg?branch=master)](https://github.com/projectM-visualizer/projectm/actions/workflows/build_osx.yml)
